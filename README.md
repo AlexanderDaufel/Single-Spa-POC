@@ -7,8 +7,6 @@ This test what just to see how well the framework works with multiple micro-fron
 ## Test.SingleSpa.Company
 This attempt is to try and see how a web site might be layed out using Single-Spa.
 
-[[_TOC_]]
-
 ## NOTES
 
 ### Nice to Knows
